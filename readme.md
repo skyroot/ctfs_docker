@@ -15,7 +15,7 @@ Setup local environment of the challenge by pulling image. For examle, we build 
 
 You can see all files at [linked github repository](https://github.com/ssst0n3/ctfs_docker/tree/master/seccon2016/web/docker_biscuiti)
 
-You can also see the `readme.md` file in the `Build Details` page.
+You can also see the `readme` at every `tag` in the `Build Details` page.
 
 ## 3. ctfs collected
 ### 3.1 seccon2016
