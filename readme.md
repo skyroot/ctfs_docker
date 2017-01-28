@@ -10,7 +10,12 @@ ctf比赛中，官网一下线，web和pwn题型就做不了了。
 ### 2.1 get docker
 [There's a tutorial for non-technical users who are interested in learning more about Docker.](https://docs.docker.com/engine/getstarted/)
 ### 2.2 pull image
-Setup local environment of the challenge by pulling image. For examle, we build the environment of **seccon2016_web_biscuiti**.You can see all files at [linked github repository](https://github.com/ssst0n3/ctfs_docker/tree/master/seccon2016/web/docker_biscuiti)
+Setup local environment of the challenge by pulling image. For examle, we build the environment of **seccon2016_web_biscuiti**.
+
+
+You can see all files at [linked github repository](https://github.com/ssst0n3/ctfs_docker/tree/master/seccon2016/web/docker_biscuiti)
+
+You can also see the `readme.md` file in the `Build Details` page.
 
 ## 3. ctfs collected
 ### 3.1 seccon2016
